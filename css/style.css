@@ -6,6 +6,10 @@ body {
 img {
     max-width: 100%;
 }
+
+.large-height {
+    min-height: 80vh;
+}
 .hero {
     min-height: calc(100vh - 63px);
 }
@@ -26,9 +30,9 @@ p {
 .h4-color{
     color:#329BFF;
 }
-.section2{
+/* .section2{
     padding-left: 120px;
-}
+} */
 .header{
     text-align: center;
     
