@@ -30,26 +30,24 @@ p {
     padding-left: 120px;
 }
 .header{
-    align-content: center;
-    padding-left: 400px
+    text-align: center;
+    
     
 }
-.icon1{
-    width: 200px;
-    padding-left: 55px;
+
+.icon {
+    
+    height: 65px;
+    
 }
-.icon2{
-    width: 200px;
-    padding-left: 55px;
-}
-.icon3{
-    width: 200px;
-    padding-left: 55px;
-}
+
 ul li{
     list-style: none;
     padding-top: 8px;
 }
 .f-section{
     background-image: url('/img/footer.png');
+}
+.img-top {
+    width: 200px;
 }
