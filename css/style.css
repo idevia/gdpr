@@ -13,6 +13,43 @@ img {
     padding: 0.8rem 1.5rem;
     border-radius: 50px;
 }
+.btn-color{
+    background-color: white;
+    color:#329BFF;
+}
 p {
     color: darkgray;    
+}
+.h-color{
+    color:#329BFF;
+}
+.h4-color{
+    color:#329BFF;
+}
+.section2{
+    padding-left: 120px;
+}
+.header{
+    align-content: center;
+    padding-left: 400px
+    
+}
+.icon1{
+    width: 200px;
+    padding-left: 55px;
+}
+.icon2{
+    width: 200px;
+    padding-left: 55px;
+}
+.icon3{
+    width: 200px;
+    padding-left: 55px;
+}
+ul li{
+    list-style: none;
+    padding-top: 8px;
+}
+.f-section{
+    background-image: url('/img/footer.png');
 }
