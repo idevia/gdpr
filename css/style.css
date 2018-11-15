@@ -72,8 +72,13 @@ ul li{
     list-style: none;
     padding-top: 8px;
 }
+
+footer {
+    padding-top: 180px;
+}
 .f-section{
-    background-image: url('/img/footer.png');
+    background-image: url('../img/footer.png');
+    background-size: cover;
 }
 .img-top {
     width: 200px;
