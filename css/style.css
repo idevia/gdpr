@@ -76,6 +76,23 @@ ul li{
 footer {
     padding-top: 180px;
 }
+
+#section2 {
+
+}
+
+.bg {
+    position: absolute;
+    bottom: -100px;
+    z-index: -1;
+    transform: skewY(16deg);
+}
+h2 {
+    font-size: 3rem;
+}
+#how-it-works {
+    background: url('../img/shape-3.png') no-repeat center;
+}
 .f-section{
     background-image: url('../img/footer.png');
     background-size: cover;
