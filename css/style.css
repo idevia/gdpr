@@ -104,3 +104,16 @@ h2 {
 .btn-shadow {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 }
+
+.expandable {
+    display: none;
+}
+.less {
+    display: none;
+}
+.triangle-bg {
+    position: absolute;
+    left: 0;
+    bottom: 0%;
+    z-index: -1;
+}
