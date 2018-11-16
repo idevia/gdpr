@@ -8,7 +8,7 @@ img {
 }
 
 .large-height {
-    min-height: 90vh;
+    min-height: 80vh;
 }
 .smaller-height {
     min-height: 60vh;
@@ -126,11 +126,21 @@ h2 {
 .triangle-bg {
     position: absolute;
     left: 0;
-    bottom: 0%;
+    bottom: -65px;
     z-index: -1;
+}
+
+@media (max-width: 1159px) {
+    .triangle-bg {
+        display: none;
+    }
 }
 
 .panel-title a{
     font-size: 1.5rem;
     text-decoration: none;
+}
+
+.pricing-section {
+    min-height: 250px;
 }
