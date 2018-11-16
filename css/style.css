@@ -154,3 +154,16 @@ h2 {
 .pricing-section {
     min-height: 250px;
 }
+
+a {
+    text-decoration: none;
+    color: rgb(33, 37, 41);
+}
+
+a :hover{
+  text-decoration: none;
+  color: rgb(33, 37, 41);
+}
+ol {
+    padding-left: 10px;
+}
