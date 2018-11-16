@@ -64,7 +64,11 @@ p {
 .container {
     width: 90% !important;
     max-width: none !important;
-
+}
+@media (max-width: 767px) {
+    .container {
+        width: 100% !important;
+    }
 }
 .icon {
     height: 65px;
@@ -102,11 +106,17 @@ footer {
 h2 {
     font-size: 3rem;
 }
+
+@media (max-width: 767px)  {
+    h2 {
+        font-size: 2rem;
+    }
+}
 #how-it-works {
     background: url('../img/shape-3.png') no-repeat center;
 }
 .f-section{
-    background-image: url('../img/footer.png');
+    background: url('../img/footer.png') no-repeat center;
     background-size: cover;
 }
 .img-top {
@@ -131,7 +141,7 @@ h2 {
 }
 
 @media (max-width: 1159px) {
-    .triangle-bg {
+    .triangle-bg, .bg {
         display: none;
     }
 }
