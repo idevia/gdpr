@@ -35,6 +35,8 @@ p {
     color:#329BFF;
 }
 
+
+
 #section2 img{
     max-width: 500px;
     display: block;
@@ -87,6 +89,11 @@ footer {
     z-index: -1;
     transform: skewY(16deg);
 }
+
+.h6-color{
+   color: #606060;
+}
+
 h2 {
     font-size: 3rem;
 }
