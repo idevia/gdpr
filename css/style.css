@@ -83,6 +83,11 @@ footer {
 
 }
 
+.navbar-light .navbar-nav .nav-link{
+    color: #2e1447;
+    font-size: 16px;
+}
+
 .bg {
     position: absolute;
     bottom: -100px;
