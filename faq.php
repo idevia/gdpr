@@ -26,7 +26,7 @@
             </div>
     </header>
 
-    <section class="my-5 py-5">
+    <section>
         <div class="container">
             <div class="row">
                 <div class="col-md-8 offset-md-2">
