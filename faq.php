@@ -1,6 +1,31 @@
 <?php $page = 'index.php/'; ?>
 <?php include 'inc/header.php'; ?>
 
+<header class="hero d-flex align-items-center">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1071.99 1078.01"><defs><style>.cls-1{fill:#f6f9fc;}</style></defs><title>shape-1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M1072,0H136.82L14.72,402.38C-39.73,581.8,61.58,771.39,241,825.84L1072,1078Z"/></g></g></svg>
+
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-md-6 offset-md-1 order-md-2">
+                    <img src="./img/faq.svg" alt="">
+                </div>
+
+                <div class="col-md-5 order-md-1">
+                    
+                    <h3 class="font-weight-bold h1">FAQ</span></h3>
+                    <!-- <h3 class="font-weight-bold h-color">GDPR?</h3> -->
+                    <p class="mt-3 text-gray">Ti offriamo una soluzione per stare tranquillo e gestire al meglio i dati personali dei tuoi ospiti.
+                    
+                    <br>Ottieni inoltre un reddito extra invitando i tuoi ospiti a prenotare servizi turistici professionali a prezzi scontati.
+                    </p>
+                        <!-- <a href="#section3" class="btn btn-primary mt-4 btn-shadow btn-cta">Leggi di più</a>
+                        <a href="http://test.vacaplus.com/easyGDPR" class="btn-color border-0 btn btn-primary btn-shadow mt-4 ml-3 btn-cta">Iniziare</a> -->
+                </div>
+
+            </div>
+    </header>
+
     <section class="my-5 py-5">
         <div class="container">
             <div class="row">
