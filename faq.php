@@ -1,7 +1,7 @@
 <?php $page = 'index.php/'; ?>
 <?php include 'inc/header.php'; ?>
 
-<header class="hero d-flex align-items-center">
+<header class="hero d-flex align-items-center faq-hero">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1071.99 1078.01"><defs><style>.cls-1{fill:#f6f9fc;}</style></defs><title>shape-1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M1072,0H136.82L14.72,402.38C-39.73,581.8,61.58,771.39,241,825.84L1072,1078Z"/></g></g></svg>
 
         <div class="container">
