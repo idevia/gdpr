@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-md-4 ">
 
-                        <h5 class="font-weight-bold">Azienda</h4>
+                        <h5 class="font-weight-bold">Azienda</h5>
                             <ul class="p-0 text1">
                                 <li><a class="" href="#section2">Chi siamo </a></li>
                                 <li><a class="" href="#section3">Come funziona </a></li>
@@ -18,7 +18,7 @@
                     </div>
                     <div class="col-md-4 ">
 
-                        <h5 class="font-weight-bold">Indirizzo</h4>
+                        <h5 class="font-weight-bold">Indirizzo</h5>
                             <ul class="p-0">
                                 <li>Vacaplus di Lucky R.E. srl,</li>
                                 <li>Via G. Zanardelli 5, 00186,</li>
