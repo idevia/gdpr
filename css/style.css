@@ -167,3 +167,7 @@ a :hover{
 ol {
     padding-left: 10px;
 }
+
+.faq-hero img {
+    max-height: 500px;
+}
