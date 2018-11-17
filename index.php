@@ -86,14 +86,14 @@
                 </div>
                 <div class="col-md-3 offset-md-1">
                     <div><img class="icon" src="./img/icon-2.svg"></div><br>
-                    <h4 class="font-weight-bold h5">Effettua check in Online<br> &nbsp;</h4>
+                    <h4 class="font-weight-bold h5">Effettua il check in online<br> &nbsp;</h4>
                     <p class="mt-3 text-gray">Invita i tuoi ospiti ad inserire online i documenti dei partecipanti al soggiorno.
                     </p>
                 </div>
                 <div class="col-md-3 offset-md-1">
                     <div><img class="icon" src="./img/icon-3.svg"></div><br>
-                    <h4 class="font-weight-bold h5">Mettiti in Regola</h4>
-                    <h4 class="font-weight-bold h5">Con La Normativa GDPR</h4>
+                    <h4 class="font-weight-bold h5">Mettiti in regola con la normativa GDPR</h4>
+                    
                     <p class="mt-3 text-gray">Raccogli il consenso del tuo ospite e conserva i suoi dati personali nella tua area privata.
                     </p>
                 </div>
@@ -129,7 +129,7 @@
                 </div>
 
                 <div class="col-md-5 offset-md-2 order-md-2 section2">
-                    <h4 class="font-weight-bold">Aumenta I Tuoi Guadagni</h4>
+                    <h4 class="font-weight-bold">Aumenta i tuoi guadagni</h4>
                     <p class="mt-3 text-gray">Invia ai tuoi ospiti un codice per prenotare un servizio turistico a prezzo scontato su Vacaplus, marketplace ad
                     accesso riservato ai migliori operatori incoming.
                     </p>
@@ -145,8 +145,8 @@
             <div class="row align-items-center">
             
                 <div class="col-md-5 order-md-1 ">
-                    <h4 class="font-weight-bold ">Affidaci La Gestione Della </h4>
-                    <h4 class="font-weight-bold ">Tua Struttura</h4>
+                    <h4 class="font-weight-bold ">Affidaci la gestione della </h4>
+                    <h4 class="font-weight-bold ">tua struttura</h4>
                     <p class="mt-3 text-gray">Utilizza i nostri servizi di accoglienza Guest 24/7, pulizia e fornitura biancheria, gestione account, adempimenti
                     burocratici.
                     </p>
@@ -168,9 +168,10 @@
                 <div class="col-md-12 text-center">
                     <h2 class="font-weight-bold mb-5">Prezzo</h2>
                     <h6 class="font-weight-bold mb-4 ">€ 5,00 inclusa IVA al mese a struttura</h6>
-                    <h6 class="font-weight-bold">Primo mese gratuito</h6>
+                    
                     <p class="mt-3 text-gray">Possibilità di disdetta in qualsiasi momento.
                     </p>
+                    <h5 class="font-weight-bold">Primo mese gratuito</h5>
 
                 </div>
                 <!-- <div class="btn-left col-md-4 order-md-2 text-center">
@@ -214,7 +215,7 @@
             
                         <div class="form-group ">
                             <label for="message">Messaggio</label>
-                            <textarea class="form-control" id="message" rows="3" placeholder="Leave a message here"></textarea>
+                            <textarea class="form-control" id="message" rows="3" placeholder="Lascia qui un messaggio"></textarea>
                         </div>
             
             

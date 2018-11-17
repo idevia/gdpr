@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-md-8 offset-md-2">
 
-                    <span><h2 class="western mb-5" align="center"><u><strong>FAQs</strong></u></h2></span>
+                    <span><h2 class="western mb-5" align="center"><u><strong>FAQ</strong></u></h2></span>
 
                     <section class="accordion-section clearfix mt-3 " aria-label="Question Accordions">
                         <div class="container">

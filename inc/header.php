@@ -54,10 +54,10 @@
                             Login
                         </a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="http://test.vacaplus.com/host">Login as host</a>
-                            <a class="dropdown-item" href="http://test.vacaplus.com/guest">Login as guest</a>
+                            <a class="dropdown-item" href="http://test.vacaplus.com/host">Accedi come Host</a>
+                            <a class="dropdown-item" href="http://test.vacaplus.com/guest">Accedi come Guest</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="http://test.vacaplus.com/register/">Create account</a>
+                            <a class="dropdown-item" href="http://test.vacaplus.com/register/">Crea il tuo account</a>
                         </div>
                     </li>
 
