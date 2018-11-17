@@ -5,7 +5,7 @@
                     <div class="col-md-4 ">
 
                         <h5 class="font-weight-bold">Azienda</h5>
-                            <ul class="p-0 text1">
+                            <ul class="p-0 text1 footer-links">
                                 <li><a class="" href="#section2">Chi siamo </a></li>
                                 <li><a class="" href="#section3">Come funziona </a></li>
                                 <li><a class="" href="#section4">Tariffe </a></li>
@@ -63,7 +63,7 @@
             $('.more').css('display', 'block');
         });
         <?php if ($page === ''): ?>
-            $("#topNav a").on('click', function (event) {
+            $("#topNav a, .footer-links a").on('click', function (event) {
                 if (this.hash !== "") {
                     event.preventDefault();
                     var hash = this.hash;
