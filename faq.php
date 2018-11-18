@@ -15,9 +15,7 @@
                     
                     <h3 class="font-weight-bold h1">FAQ</span></h3>
                     <!-- <h3 class="font-weight-bold h-color">GDPR?</h3> -->
-                    <p class="mt-3 text-gray">Ti offriamo una soluzione per stare tranquillo e gestire al meglio i dati personali dei tuoi ospiti.
-                    
-                    <br>Ottieni inoltre un reddito extra invitando i tuoi ospiti a prenotare servizi turistici professionali a prezzi scontati.
+                    <p class="mt-3 text-gray">Se non trovi una risposta ai tuoi dubbi tra quelle elencate qui sotto contattaci pure; saremo pronti a darti assistenza
                     </p>
                         <!-- <a href="#section3" class="btn btn-primary mt-4 btn-shadow btn-cta">Leggi di più</a>
                         <a href="http://test.vacaplus.com/easyGDPR" class="btn-color border-0 btn btn-primary btn-shadow mt-4 ml-3 btn-cta">Iniziare</a> -->
